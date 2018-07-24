@@ -1,2 +1,6 @@
 # Redirect-temp
-Redirect to a temporary git server
+
+Current project repos hosted externally.
+Please visit the following URLs to see the latest updates.
+
+Potential Energy : 
